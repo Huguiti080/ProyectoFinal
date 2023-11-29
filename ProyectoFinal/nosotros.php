@@ -12,7 +12,6 @@ session_start();
     <?php include 'nav.php'; ?>
 </head>
 <body>
-    <p>Hola</p>
     <?php
     include 'footer.php';
     ?>
